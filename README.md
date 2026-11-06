@@ -18,7 +18,7 @@ Hackathon **Track Arbitrum** · categoría **DeFi / RWA**
 | **Desarrollador nuevo** | [Arranque](#-arranque) → [Arquitectura](#-arquitectura-la-frontera-web2--web3) → [Agregar una feature](#-agregar-una-feature-receta)                     |
 | **Quien despliega**     | [`.env` completo](#-el-env-completo) → [Deploy en Coolify](#-deploy-en-coolify)                                                                          |
 
-Documentos largos: [`docs/referencia-pai-arbitrum.md`](docs/referencia-pai-arbitrum.md) (caso de uso, rúbrica, guion de demo) · [`docs/arquitectura.md`](docs/arquitectura.md) (frontera Web2 ↔ Web3) · [`docs/design/`](docs/design/) (sistema visual del panel).
+Documentos largos: [`docs/vision-general.md`](docs/vision-general.md) (mapa completo del sistema) · [`docs/referencia-pai-arbitrum.md`](docs/referencia-pai-arbitrum.md) (caso de uso, rúbrica, guion de demo) · [`docs/arquitectura.md`](docs/arquitectura.md) (frontera Web2 ↔ Web3) · [`docs/design/`](docs/design/) (sistema visual del panel).
 
 ---
 
